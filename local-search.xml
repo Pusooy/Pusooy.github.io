@@ -43,5 +43,30 @@
   
   
   
+  <entry>
+    <title>相机基础知识</title>
+    <link href="/2023/08/31/%E7%9B%B8%E6%9C%BA%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    <url>/2023/08/31/%E7%9B%B8%E6%9C%BA%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/assets/QQ%E6%88%AA%E5%9B%BE20240708222022-20240708222036-iqtejm0.png" alt="image"></p><h1 id="相机基础知识"><a href="#相机基础知识" class="headerlink" title="相机基础知识"></a>相机基础知识</h1><h1 id="相机分类"><a href="#相机分类" class="headerlink" title="相机分类"></a>相机分类</h1><h1 id="传感器"><a href="#传感器" class="headerlink" title="传感器"></a>传感器</h1><p>传感器是数码相机成像的核心部件(感光元件)，分为 CMOS 和 CCD，CMOS 是主流。</p><p>​<img src="/assets/net-img-v2-4883f9e5933c37c1e480e7365aa43a28_b-20230831151043-cyf3owg.jpg">​</p><p>现在已经有部分手机拥有 1 英寸底（截至 2023.8.13）</p><h1 id="曝光三角"><a href="#曝光三角" class="headerlink" title="曝光三角"></a>曝光三角</h1><h2 id="F（光圈）"><a href="#F（光圈）" class="headerlink" title="F（光圈）"></a>F（光圈）</h2><p>控制镜头的进光范围，用字母“F”值来表示光圈的大小。</p><p>在<a href="https://zh.wikipedia.org/wiki/%E5%85%89%E5%AD%B8">光学</a>中，一个光学系统中的<strong>焦比</strong>（英语：<strong>f-number</strong>，或称 <strong>F 值</strong>、<strong>F 比例</strong>、<strong>相对孔径</strong>、<strong>光圈值</strong>、<strong>光圈系数</strong>等，习惯上也简称“<a href="https://zh.wikipedia.org/wiki/%E5%85%89%E5%9C%88">光圈</a>”）表达镜头的<a href="https://zh.wikipedia.org/wiki/%E7%84%A6%E8%B7%9D">焦距</a>和<a href="https://zh.wikipedia.org/wiki/%E5%85%89%E5%9C%88">光圈</a>直径大小的关系。简单来说，焦比等于焦距数除以孔径数。焦比是<a href="https://zh.wikipedia.org/wiki/%E6%97%A0%E9%87%8F%E7%BA%B2%E9%87%8F">无因次</a>的，它代表了摄影学中的一个重要概念：镜速（lens speed）的量，即同镜头同进光量下需要的快门速度。如：</p><p>其中<strong>数字越小，光圈越大镜头进入的光越多，画面越亮，景深越浅，背景越模糊。</strong></p><h3 id="​"><a href="#​" class="headerlink" title="​"></a>​<img src="/assets/net-img-v2-f13b659af11d67fe914c560d52422844_b-20230831151043-h5q4owu.jpg"></h3><p><strong>景深</strong></p><p><strong>光圈决定景深，</strong> 景深分为两种（实际上光圈越大，则意味着小孔以外的光线摄入减弱，便有了景深效果）：</p><p>1、浅景深，把前后背景模糊作为主体的衬托，突出某一个体，用大光圈。如图：</p><p>​<img src="/assets/net-img-v2-ecfa5c4aaa19ee8c1b2d5149f85cc553_b-20230831151043-g4r4wtl.jpg">​</p><p>2、大景深，如果想拍摄大范围的景色，如：山峰、大海、田野，用小光圈。</p><p>​<img src="/assets/net-img-v2-be7d9b16b1122b7254a2efb5caef01aa_b-20230831151043-e5ndbpm.jpg">​</p><h2 id="ISO（感光度）"><a href="#ISO（感光度）" class="headerlink" title="ISO（感光度）"></a>ISO（感光度）</h2><p>英文全称是 International Standardization Organization，是国际标准化组织的缩写，我们经常听到的的「ISO9000」，「莞式 ISO」，就代表标准之意。</p><p>因为这个组织把感光度做了量化的规定，用来衡量底片（感光元件）对于光的灵敏程度。所以大家也就把 ISO 叫做感光度了。</p><p>ISO 越小，画面相对越暗；</p><p>ISO 越大，画面也越明亮，适合黑暗场景拍摄，噪点也会相应增多。</p><h2 id="S（快门）"><a href="#S（快门）" class="headerlink" title="S（快门）"></a>S（快门）</h2><p>相机打开到关闭所有的时间，快门设置越快 进入的光越少 拍照速度就越快，画面越暗，快门设置越大，进入的光越多速度越慢 画面就越亮。</p><h1 id="其他常见参数"><a href="#其他常见参数" class="headerlink" title="其他常见参数"></a>其他常见参数</h1><h2 id="HDR（高动态范围）"><a href="#HDR（高动态范围）" class="headerlink" title="HDR（高动态范围）"></a>HDR（高动态范围）</h2><p>本质是拍摄一组不同曝光参数的照片，欠曝过曝均曝照片，然后把三张照片正常曝光的部分合成。</p><h2 id="WB-白平衡"><a href="#WB-白平衡" class="headerlink" title="WB(白平衡)"></a><strong>WB(白平衡)</strong></h2><p>有手动白平衡和自动白平衡等，解决色彩还原和色调处理问题，因为有时候在特定的光源下拍摄会出现偏色现象，通过调整白平衡可以解决色温的偏差，恢复照片真实的色彩。</p><p>下图是通过调节白平衡改变的色差。</p><p>​<img src="/assets/net-img-v2-bb3e687cc4b940fcea9b823a2b591064_b-20230831151043-klcs2ek.jpg">​</p><h1 id="常见拍摄问题"><a href="#常见拍摄问题" class="headerlink" title="常见拍摄问题"></a>常见拍摄问题</h1><h2 id="画面模糊"><a href="#画面模糊" class="headerlink" title="画面模糊"></a>画面模糊</h2><p>快门太长，物体运动速度太快，手抖。</p><p>解决：提高快门速度，加稳定器。</p><h2 id="画面太亮-太暗"><a href="#画面太亮-太暗" class="headerlink" title="画面太亮&#x2F;太暗"></a>画面太亮&#x2F;太暗</h2><p>曝光三角太大&#x2F;太小</p><p>‍</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>未分类</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>hjkvgj</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
   
 </search>
