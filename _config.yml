@@ -119,10 +119,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: Pusooy/Pusooy.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOPVgKiw
+    repo: Pusooy/pusooy.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOPVhwgw
     category: General
-    category_id: DIC_kwDOPVgKi84Ctl
+    category_id: DIC_kwDOPVhwg84CtmGl
     mapping: pathname # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
